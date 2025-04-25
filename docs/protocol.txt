@@ -1,0 +1,4 @@
+Transmission Control Protocol (TCP) - The primary protocol that implements connection-oriented (aka virtual circuit or stream socket) connection types 
+    Socket type: SOCK_STREAM
+    Networked version of these sockets: (AF_INET) use the Internet Protocol (IP) to find hosts in the network.
+    Non-networked version of these sockets: (AF_LOCAL/AF_UNIX)
