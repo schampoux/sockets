@@ -1,0 +1,19 @@
+Uniform Resource Locators (URLs)
+    Web addresses used to locate a document on the web 
+    Or to call a CGI program to generate a document for your client. 
+    Part of a larger set of identifiers called URI's 
+        A URL is a URI that uses an existing protocol or scheme (http, ftp, etc.)
+
+Uniform Resource Identifiers (URIs)
+    Superset created in anticipation of other naming conventions 
+
+Web Address Components 
+    prot_sch - Network protocol or download scheme 
+    net_loc - Location of server (or perhaps user info)
+                (user:passwd@host:port)
+    
+    path - Slash (/) delimited path to file or CGI applicaiton
+    params - 
+    query - Ampersand (&) delimited set of "key=value" pairs
+    frag - Fragment to a specific anchor within document
+    
